@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="#about">About</a> • 
- <a href="#colab">Collaborators</a> •
+ <a href="#colab">Author</a> •
  <a href="#contribute">Contribute</a>
 </p>
 
