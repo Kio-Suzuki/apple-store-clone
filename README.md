@@ -13,7 +13,6 @@
 
 <p align="center">
  <a href="#about">About</a> • 
- <a href="#started">Getting Started</a> • 
  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
 </p>
@@ -28,23 +27,6 @@ Este projeto é um mockup da página de vendas do Apple Watch da Apple Store, de
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
-<h2 id="started">🚀 Getting started</h2>
-
-Here you describe how to run your project locally
-
-<h3>Prerequisites</h3>
-
-Here you list all prerequisites necessary for running your project. For example:
-
-- [Git 2](https://github.com)
-
-<h3>Cloning</h3>
-
-How to clone your project
-
-```bash
-git clone https://github.com/Kio-Suzuki/apple-store-clone.git
-```
 <h2 id="colab">🤝 Author</h2>
 
 Special thank you for all people that contributed for this project.
