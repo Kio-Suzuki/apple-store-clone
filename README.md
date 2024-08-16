@@ -25,7 +25,7 @@
 
 <h2 id="started">📌 About</h2>
 
-Simple description of what your project do or how to use it.
+Este projeto é um mockup da página de vendas do Apple Watch da Apple Store, desenvolvido como parte de um desafio de web design. O objetivo foi recriar a interface da loja, mantendo a estética minimalista e a organização visual característica da Apple.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
@@ -46,16 +46,7 @@ How to clone your project
 ```bash
 git clone https://github.com/Kio-Suzuki/apple-store-clone.git
 ```
-
-<h3>Starting</h3>
-
-How to start your project
-
-```bash
-cd project-name
-npm some-command-to-run
-```
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab">🤝 Author</h2>
 
 Special thank you for all people that contributed for this project.
 
