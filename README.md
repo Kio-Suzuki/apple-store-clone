@@ -20,8 +20,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Kio-Suzuki/kio-suzuki.github.io/blob/main/assets/Home.png?raw=true" alt="Home Page" width="500px">
-    <img src="https://github.com/Kio-Suzuki/kio-suzuki.github.io/blob/main/assets/instituicoes.png?raw=true" alt="Home Page" width="500px"
+    <img src="https://github.com/Kio-Suzuki/apple-store-clone/blob/main/imagens/outros-recursos/home-page.png?raw=true" alt="Home Page" width="500px">
 </p>
 
 <h2 id="started">📌 About</h2>
