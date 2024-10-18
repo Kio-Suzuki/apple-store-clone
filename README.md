@@ -29,8 +29,6 @@ Este projeto é um mockup da página de vendas do Apple Watch da Apple Store, de
 
 <h2 id="colab">🤝 Author</h2>
 
-Special thank you for all people that contributed for this project.
-
 <table>
   <tr>
      <td align="center">
