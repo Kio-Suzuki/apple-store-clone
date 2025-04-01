@@ -21,7 +21,7 @@
     <img src="https://github.com/Kio-Suzuki/apple-store-clone/blob/main/imagens/outros-recursos/home-page.png?raw=true" alt="Home Page" width="500px">
 </p>
 
-<h2 id="started">📌 About</h2>
+<h2 id="about">📌 About</h2>
 
 Este projeto é um mockup da página de vendas do Apple Watch da Apple Store, desenvolvido como parte de um desafio de web design. O objetivo foi recriar a interface da loja, mantendo a estética minimalista e a organização visual característica da Apple.
 
@@ -43,8 +43,6 @@ Este projeto é um mockup da página de vendas do Apple Watch da Apple Store, de
 </table>
 
 <h2 id="contribute">📫 Contribute</h2>
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
 1. `git clone https://github.com/Kio-Suzuki/apple-store-clone.git`
 2. `git checkout -b feature/NAME`
