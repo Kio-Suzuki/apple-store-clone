@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Kio-Suzuki/apple-store-clone/blob/main/imagens/outros-recursos/home-page.png?raw=true" alt="Home Page" width="500px">
+   <img src="https://cdn.jsdelivr.net/gh/Kio-Suzuki/apple-store-clone/blob/main/imagens/outros-recursos/home-page.png?raw=true" alt="Home Page" width="500px">
 </p>
 
 <h2 id="about">📌 About</h2>
